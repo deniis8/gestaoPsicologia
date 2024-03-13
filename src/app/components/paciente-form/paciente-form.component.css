@@ -1,0 +1,6 @@
+textarea {
+  resize: none;
+  border: 1px solid #ccc;
+  padding: 8px;
+  font-family: Arial, sans-serif;
+}

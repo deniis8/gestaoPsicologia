@@ -1,0 +1,13 @@
+<form >
+
+    <div class="form-group">
+        <label for="description">Nome Completo:</label>
+        <textarea placeholder="Nome Completo" formControlName="descricao" rows="1" required></textarea>
+        <!--<div *ngIf="descricao.invalid && formDir.submitted" class="validation-error">
+            <p *ngIf="descricao.errors?.['required']">O nome é obrigatótio.</p>
+        </div>-->
+    </div>  
+
+    <input type="submit" value="Confirmar">  
+   
+</form>
