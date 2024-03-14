@@ -13,7 +13,7 @@ a{
 }
 
 a:hover{
-    color: #aaa047;
+    color: #86056c;
 }
 
 /* FORM */
@@ -52,8 +52,8 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover{
-    color: #aaa047;
-    border-color: #aaa047;
+    color: #86056c;
+    border-color: #86056c;
     background-color: transparent;
 }
 
